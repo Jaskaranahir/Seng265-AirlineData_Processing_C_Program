@@ -1,12 +1,5 @@
 /** @file route_manager.c
  *  @brief A pipes & filters program that uses conditionals, loops, and string processing tools in C to process airline routes.
- *  @author Felipe R.
- *  @author Hausi M.
- *  @author Jose O.
- *  @author Saasha J.
- *  @author Victoria L.
- *  @author STUDENT_NAME
- *
  */
 #include <stdio.h>
 #include <string.h>
